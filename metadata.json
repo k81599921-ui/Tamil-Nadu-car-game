@@ -1,0 +1,6 @@
+{
+  "name": "Thamizhagam Drive 3D — தமிழ்நாடு கார் கேம்",
+  "description": "Interactive 3D Tamil Nadu open-highway driving and racing game featuring iconic temples, Kanyakumari Thiruvalluvar Statue, Ooty hills, customizable unique 3D cars, Tamil/English switcher, and procedural Tamil & racing music radio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
